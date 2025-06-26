@@ -76,8 +76,7 @@ footer{
     color: var(--card-bg);
     background-color: var(--primary-color);
     text-align: center;
-    padding-bottom: 1dvh;
-    position: fixed;
+    font-size: 12px;
     width: 100%;
     bottom: 0;
 }
